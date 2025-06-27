@@ -2,7 +2,7 @@
 
 A simple web application that collects form submissions and stores them in MongoDB Atlas, with an API endpoint to view sample data.
 
-![Screenshot of the working form](fo8rm-screenshot1.png)
+![Screenshot of the working form](form-screenshot1.png)
 
 ![Screenshot of the submitted form](form-screenshot2.png)
 
